@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "629075756908",
+    "project_id": "notifications-faa14",
+    "storage_bucket": "notifications-faa14.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:629075756908:android:72c1eabbfb89e670245549",
+        "android_client_info": {
+          "package_name": "com.gui"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBu1KlxK3box0ujPabYjrGgZc-m9yQKdbM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
